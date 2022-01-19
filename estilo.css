@@ -1,0 +1,18 @@
+body{
+	background-color: #003149;
+}
+
+.container{
+	background-color: white;
+	height: 100vh; /* For 100% screen height */
+    
+}
+
+header{
+	color: white;
+}
+caption{
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+}

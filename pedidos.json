@@ -1,0 +1,32 @@
+[
+    {
+        "idPedido": 1,
+        "cliente": "123",
+        "fdespacho": "28-11-2021",
+        "total": 30000
+    },
+    {
+        "idPedido": 2,
+        "cliente": "5674",
+        "fdespacho": "25-12-2021",
+        "total": 89000
+    },
+    {
+        "idPedido": 3,
+        "cliente": "9834",
+        "fdespacho": "28-11-2021",
+        "total": 23900
+    },
+    {
+        "idPedido": 4,
+        "cliente": "2345",
+        "fdespacho": "28-11-2021",
+        "total": 7893
+    },
+    {
+        "idPedido": 5,
+        "cliente": "2654",
+        "fdespacho": "30-11-2021",
+        "total": 32909
+    }
+]
